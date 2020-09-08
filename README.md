@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This repository is dedicated to the capstone project for IBM Data Science Professional coursera course. 
+Create a new repository on your Github account and name it Coursera_Capstone.
